@@ -13,6 +13,7 @@
 		6C1D1956235BCD740004FDD9 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6C1D1954235BCD740004FDD9 /* Main.storyboard */; };
 		6C1D1958235BCD750004FDD9 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6C1D1957235BCD750004FDD9 /* Assets.xcassets */; };
 		6C1D195B235BCD750004FDD9 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6C1D1959235BCD750004FDD9 /* LaunchScreen.storyboard */; };
+		6C1D1963235BCF460004FDD9 /* CardViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 6C1D1962235BCF460004FDD9 /* CardViewController.xib */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		6C1D1957235BCD750004FDD9 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		6C1D195A235BCD750004FDD9 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		6C1D195C235BCD750004FDD9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		6C1D1962235BCF460004FDD9 /* CardViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = CardViewController.xib; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				6C1D1957235BCD750004FDD9 /* Assets.xcassets */,
 				6C1D1959235BCD750004FDD9 /* LaunchScreen.storyboard */,
 				6C1D195C235BCD750004FDD9 /* Info.plist */,
+				6C1D1962235BCF460004FDD9 /* CardViewController.xib */,
 			);
 			path = CardViewCustom;
 			sourceTree = "<group>";
@@ -125,6 +128,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				6C1D1963235BCF460004FDD9 /* CardViewController.xib in Resources */,
 				6C1D195B235BCD750004FDD9 /* LaunchScreen.storyboard in Resources */,
 				6C1D1958235BCD750004FDD9 /* Assets.xcassets in Resources */,
 				6C1D1956235BCD740004FDD9 /* Main.storyboard in Resources */,
