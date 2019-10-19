@@ -14,6 +14,7 @@
 		6C1D1958235BCD750004FDD9 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6C1D1957235BCD750004FDD9 /* Assets.xcassets */; };
 		6C1D195B235BCD750004FDD9 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6C1D1959235BCD750004FDD9 /* LaunchScreen.storyboard */; };
 		6C1D1963235BCF460004FDD9 /* CardViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 6C1D1962235BCF460004FDD9 /* CardViewController.xib */; };
+		6C1D1965235BD6270004FDD9 /* CardViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6C1D1964235BD6270004FDD9 /* CardViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		6C1D195A235BCD750004FDD9 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		6C1D195C235BCD750004FDD9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		6C1D1962235BCF460004FDD9 /* CardViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = CardViewController.xib; sourceTree = "<group>"; };
+		6C1D1964235BD6270004FDD9 /* CardViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +68,7 @@
 				6C1D1959235BCD750004FDD9 /* LaunchScreen.storyboard */,
 				6C1D195C235BCD750004FDD9 /* Info.plist */,
 				6C1D1962235BCF460004FDD9 /* CardViewController.xib */,
+				6C1D1964235BD6270004FDD9 /* CardViewController.swift */,
 			);
 			path = CardViewCustom;
 			sourceTree = "<group>";
@@ -142,6 +145,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				6C1D1965235BD6270004FDD9 /* CardViewController.swift in Sources */,
 				6C1D1953235BCD740004FDD9 /* ViewController.swift in Sources */,
 				6C1D194F235BCD730004FDD9 /* AppDelegate.swift in Sources */,
 				6C1D1951235BCD740004FDD9 /* SceneDelegate.swift in Sources */,
