@@ -9,6 +9,7 @@
     <objects>
         <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="CardViewController" customModule="CardViewCustom" customModuleProvider="target">
             <connections>
+                <outlet property="SwipeUp" destination="iJi-po-FSq" id="kKQ-rR-chb"/>
                 <outlet property="headerArea" destination="VsZ-cG-LNl" id="hOM-Yv-Prd"/>
                 <outlet property="view" destination="iN0-l3-epB" id="mHI-Tl-g7C"/>
             </connections>
